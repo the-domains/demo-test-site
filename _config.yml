@@ -1,7 +1,7 @@
 name: demo-test-site
 favicon: null
-layout_spectrum: 0.34774984745308757
-typography_spectrum: 0.061507654609158635
+layout_spectrum: 0.34775
+typography_spectrum: 0.48007
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.813023095484823
-  lightness: 0.74585702852346
-  saturation: 0.8921245511155576
+    - '#252a2d'
+    - '#665d54'
+    - '#b8b6b7'
+    - '#81776e'
+    - '#d4d2d3'
+  brandStrength: 0.6875
+  lightness: 0.5625
+  saturation: 0.5625
   rhythmicContrast: 0.1353041515685618
 purpose: []
